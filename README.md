@@ -1,4 +1,4 @@
-### H3 **Hello! I'm Deepac Bangarwa 👋**
+<p style="font-size: 16px;">Hello! I'm Deepac Bangarwa 👋</p> 
 
 
 **📊 DATA ANALYST & BI DEVELOPER | 10+ YEARS OF EXPERIENCE**
