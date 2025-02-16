@@ -1,7 +1,7 @@
 # Hello! I'm Deepac Bangarwa 👋😃
 
 
-# </br>**📊 SENIOR DATA ANALYST | BI & DATA VISUALIZATION SPECIALIST | 10+ YEARS OF EXPERIENCE**</br></br>
+### </br>**📊 SENIOR DATA ANALYST | BI & DATA VISUALIZATION SPECIALIST | 10+ YEARS OF EXPERIENCE**</br></br>
 
 **ABOUT ME**</br>
 A results-driven Senior Data Analyst & BI Developer with 10+ years of experience in Data Analytics, Business Intelligence, and Data Engineering. I specialize in data-driven decision-making, predictive analytics, and ETL pipeline automation to help businesses extract valuable insights from their data.
