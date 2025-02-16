@@ -34,12 +34,11 @@ I am passionate about solving complex data problems and enabling organizations t
 🚀 ETL Development: Extract, Transform, Load Best Practices</br></br>
 
 **☁️ Cloud & DevOps**</br>
-🚀 Cloud Services: AWS (S3, Lambda, Redshift), Google Cloud, Azure</br>
+🚀 Cloud Services: AWS (S3)</br>
 🚀 Version Control & CI/CD: Git, GitHub, GitLab </br></br>
 
 **📈 Predictive Analytics & Machine Learning**</br>
 🚀 Customer Churn Prediction & Retention Strategies</br>
-🚀 A/B Testing & Experimentation</br>
 🚀 Feature Engineering & Model Optimization (using Dataiku, Scikit-Learn)</br></br>
 
 ## **📈 FEATURED PROJECTS**</br>
