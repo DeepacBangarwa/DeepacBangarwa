@@ -29,8 +29,8 @@ I am passionate about solving complex data problems and enabling organizations t
 🚀 Data Warehousing: Schema Design, Data Modeling, Indexing</br></br>
 
 **🐍 Programming & Scripting**</br>
-🚀 Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn</br>
-🚀 Data Pipeline Automation: Airflow, dbt, Prefect</br>
+🚀 Python: Pandas, NumPy, Matplotlib</br>
+🚀 Data Pipeline Automation: Airflow, dbt</br>
 🚀 ETL Development: Extract, Transform, Load Best Practices</br></br>
 
 **☁️ Cloud & DevOps**</br>
