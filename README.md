@@ -37,7 +37,7 @@ I am passionate about solving complex data problems and enabling organizations t
 🚀 Customer Churn Prediction & Retention Strategies</br>
 
 ## **📈 FEATURED PROJECTS**</br>
- ***Working on it***</br></br>
+Working on AI Prompt engineering course for begineers. To access the first draft refer this link - https://github.com/DeepacBangarwa/ai_prompt_engineering_course_in_simple_words</br></br>
 
 
 ## 🎓 CERTIFICATIONS</br>
